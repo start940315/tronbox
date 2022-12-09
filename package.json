@@ -1,7 +1,7 @@
 {
   "name": "tronbox",
   "namespace": "tronprotocol",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "TronBox - Simple development framework for Tron",
   "keywords": [
     "TronBox",
@@ -27,7 +27,7 @@
     "bignumber.js": "^7.2.1",
     "chai": "4.1.2",
     "chalk": "^2.4.1",
-    "chokidar": "^1.4.2",
+    "chokidar": "^1.7.0",
     "colors": "^1.1.2",
     "cpr": "^0.4.3",
     "debug": "^3.1.0",
